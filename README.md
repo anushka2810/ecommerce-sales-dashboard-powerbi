@@ -18,10 +18,12 @@ This Power BI project provides an interactive and insightful dashboard to track 
 - `Anushka Ecommerce Sales Dashboard.pbix` – the main Power BI project file
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](./fc416596-e559-4c45-8f1b-944bebaff1df.png)
+![Dashboard Preview](Sales%20Dashboard.png)
+
 
 ---
 
 Feel free to clone or download the repository to explore the dashboard yourself.
 
 > Made with ❤️ by Anushka Sonawane
+
